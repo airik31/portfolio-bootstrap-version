@@ -1,0 +1,14 @@
+body {
+    padding-top: 60px;
+    font-family: 'Montserrat', sans-serif;
+  }
+ /* @mediga (max-width: 979px) {
+    body {
+      padding-top: 0px;
+    }
+  }
+*/
+
+#techStack {
+    font-size: 2em;
+}
